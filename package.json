@@ -2,7 +2,7 @@
   "name": "syui",
   "version": "1.0.0",
   "license": "MIT",
-  "description": "",
+  "description": "typescript library starter with rollup, esbuild, scss and webpack demo site",
   "type": "module",
   "exports": {
     "./lib/styles.css": "./lib/styles.css",
